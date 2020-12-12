@@ -16,4 +16,3 @@ add_library(minilzo ${minilzo_SOURCE})
 
 # add_executable(miniz_tester ${MINIZ_TESTER_SRC_LIST})
 # target_link_libraries(miniz_tester miniz)
-
